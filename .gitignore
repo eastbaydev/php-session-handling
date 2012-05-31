@@ -15,3 +15,10 @@ sites/all/README.txt
 sites/all/modules/README.txt
 sites/all/themes/README.txt
 .htaccess
+
+# Eclipse generated files #
+###########################
+.buildpath
+.project
+.settings
+.setting/*
